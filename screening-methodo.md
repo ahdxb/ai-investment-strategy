@@ -165,6 +165,16 @@ Note: R1 assesses the *typical* data state. Individual targets may be ahead of o
 |4    |Good — healthy margins, some recurring/repeat revenue, manageable customer concentration, viable market position.|
 |5    |Excellent — strong recurring revenue, high margins, loyal customer base, clear market position.                  |
 
+**R8. AI Disruption Resilience**
+
+|Score|Definition                                                                                                                                |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------|
+|1    |Core service is highly vulnerable — AI could replace the primary value proposition within 3–5 years.                                      |
+|2    |Significant exposure — AI is already eroding demand or commoditizing key deliverables.                                                    |
+|3    |Moderate exposure — some functions at risk but core delivery has durable human/physical components.                                       |
+|4    |Low exposure — core work is physical, relational, or regulatory-gated. AI augments but cannot substitute.                                 |
+|5    |Minimal exposure — the service fundamentally requires on-site human presence, licensed expertise, or physical transformation of materials.|
+
 #### D. Deployment Potential
 
 **Phase A Potential (GenAI + RPA, deployable Day 1)**
@@ -189,15 +199,15 @@ Note: R1 assesses the *typical* data state. Individual targets may be ahead of o
 
 ### Composite Score
 
-**Composite = R1 + R2 + R3 + R4 + R5 + R6 + R7 + Phase A + Phase B**
+**Composite = R1 + R2 + R3 + 2 x R4 + R5 + 2 x R6 + R7 + 2 x Phase_A + Phase_B**
 
-Maximum possible: 45.
+Maximum possible: 65.
 
 |Range|Interpretation                                                                                   |
 |-----|-------------------------------------------------------------------------------------------------|
-|36–45|Top tier — strong fit across most dimensions. Proceed to deep dive.                              |
-|30–35|Promising — likely viable with some conditional factors. Review for deep dive.                   |
-|25–29|Marginal — may work in specific niches or geographies. Low priority for deep dive.               |
+|45–65|Top tier — strong fit across most dimensions. Proceed to deep dive.                              |
+|35–45|Promising — likely viable with some conditional factors. Review for deep dive.                   |
+|25–35|Marginal — may work in specific niches or geographies. Low priority for deep dive.               |
 |<25  |Weak fit — unlikely to meet reliability conditions. Exclude unless specific justification exists.|
 
 ### Verdicts
@@ -208,13 +218,7 @@ Maximum possible: 45.
 
 ### Weighting
 
-The current model weights all criteria equally. This is a deliberate simplification for the initial screening pass. In practice, we apply informal weighting through qualitative judgment at the deep dive stage. The criteria that matter most for our strategy are:
-
-- **R6 (Fragmentation):** Enables the repeatable playbook — the core structural edge
-- **R7 (Business quality):** Ensures we’re buying good businesses, not just AI-amenable ones
-- **Phase A potential:** Determines how quickly value creation begins post-acquisition
-
-If a formal weighting is needed later (e.g., for a larger scoring exercise or investor presentation), we would weight R6 and R7 at 1.5x and the others at 1x. This has not been applied to the current scores.
+The criteria that matter most for our strategy are **R4**, **R6**, and **Phase A potential**. They currently receive a x2 weighting.
 
 -----
 
