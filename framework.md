@@ -133,6 +133,7 @@ Preconditions that predict whether AI deployment will deliver value. These becom
 |--|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 |R6|Sector is fragmented           |Many similar sub-scale businesses. Competitors unlikely to adopt AI quickly. Enables repeatable playbook across portfolio — the strongest structural edge.|
 |R7|Business is fundamentally sound|Adequate gross margins, repeat/recurring revenue, manageable customer concentration, viable market position. AI is a multiplier, not a rescue strategy.   |
+|R8| Low AI disruption vulnerability | AI improves the business but does not threaten to commoditize or disintermediate its core value proposition. Sectors where AI could eventually replace the service itself (e.g., translation, basic accounting, call centres) are less attractive for long-term holds than sectors where the core work is physical, relational, or regulatory-gated.
 
 ### D. Due Diligence–Level Conditions (deal-specific)
 
