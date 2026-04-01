@@ -199,7 +199,7 @@ Note: R1 assesses the *typical* data state. Individual targets may be ahead of o
 
 ### Composite Score
 
-**Composite = R1 + R2 + R3 + 2 x R4 + R5 + 2 x R6 + R7 + 2 x Phase_A + Phase_B**
+**Composite = R1 + R2 + R3 + 2 x R4 + R5 + 2 x R6 + R7 + R8 + 2 x Phase_A + Phase_B**
 
 Maximum possible: 65.
 
