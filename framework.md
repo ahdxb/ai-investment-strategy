@@ -1,6 +1,6 @@
 # AI-Driven SME Acquisition Strategy — Phase 1 Summary
 
-*Version: 1.0 — Phase 1 complete. Ready for Phase 2 (Sector Screening).*
+*Version: 0.1*
 
 -----
 
