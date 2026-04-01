@@ -1,4 +1,4 @@
-# AI-Driven SME Acquisition Strategy — Phase 1 Summary
+# AI-Driven SME Acquisition and Rollup Strategy
 
 *Version: 0.1*
 
