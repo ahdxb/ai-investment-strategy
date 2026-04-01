@@ -17,8 +17,6 @@
 |25–34|Marginal — low priority         |
 |<25  |Weak fit — exclude              |
 
-**Note:** R8 (AI Disruption Resilience) is included at 1× weight. The published formula text omits R8 but the stated max of 65 implies its inclusion. This should be corrected in screening-methodo.md.
-
 -----
 
 ## Screening Results
